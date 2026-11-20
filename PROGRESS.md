@@ -11,12 +11,11 @@ Update this file at the end of each study session or week. Record evidence (link
 
 ## Phase tracker
 
-- [ ] Phase 1 — Software engineering foundations (Weeks 1–4)
-- [ ] Phase 2 — Core computer science (Weeks 5–8)
-- [ ] Phase 3 — Backend engineering (Weeks 9–12)
-- [ ] Phase 4 — Machine learning and deep learning (Weeks 13–16)
-- [ ] Phase 5 — LLM engineering (Weeks 17–20)
-- [ ] Phase 6 — Deployment and FDE portfolio (Weeks 21–24)
+- [ ] Phase 1 — Software engineering and computer science foundations (Weeks 1–6)
+- [ ] Phase 2 — Backend engineering (Weeks 7–10)
+- [ ] Phase 3 — Machine learning and deep learning (Weeks 11–14)
+- [ ] Phase 4 — LLM engineering (Weeks 15–18)
+- [ ] Phase 5 — Deployment and FDE portfolio (Weeks 19–24)
 
 ## Weekly log
 
