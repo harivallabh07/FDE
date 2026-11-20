@@ -1,4 +1,5 @@
-# 02 — Data Structures and Algorithms
+# 01— Data Structures and Algorithms
+
 
 **Goal:** Select appropriate data structures and reason about time and space complexity.
 
