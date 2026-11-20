@@ -32,7 +32,7 @@ Other files: [ROADMAP.md](ROADMAP.md) · [PROGRESS.md](PROGRESS.md) · [resource
 4. Record completed work and blockers in [PROGRESS.md](PROGRESS.md).
 5. Commit work regularly with descriptive commit messages.
 
-## Weekly rhythm
+## Weekly motive
 - Learn concepts and take concise notes.
 - Reproduce examples by typing the code yourself.
 - Complete the module's practical assignment without copying a finished solution.
