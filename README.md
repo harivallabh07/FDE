@@ -4,7 +4,7 @@ A six-month, project-driven learning repository for building the software engine
 
 ## Learning priorities
 
-- Build strong software engineering foundations: Python, problem solving, OOP, DSA, OS, Computer Networks, and DBMS.
+- Build software engineering foundations through DSA, OOP, Operating Systems, and Computer Networks.
 - Build and expose reliable backend services and APIs.
 - Develop practical ML, deep learning, LLM, and RAG systems.
 - Deploy, monitor, debug, and document end-to-end solutions.
@@ -14,19 +14,17 @@ A six-month, project-driven learning repository for building the software engine
 
 | Folder | Focus |
 |---|---|
-| `01-programming-fundamentals` | Python, clean code, debugging, Git |
 | `02-dsa` | Data structures and algorithms |
-| `03-oop` | OOP principles and design |
+| `03-oop-and-computer-networks` | OOP principles, design, networking, HTTP, TCP/IP, DNS, TLS |
 | `04-operating-systems` | Processes, threads, memory, concurrency |
-| `05-computer-networks` | HTTP, TCP/IP, DNS, TLS, networking |
-| `06-dbms` | SQL, schema design, transactions, indexing |
 | `07-machine-learning` | Classical ML and evaluation |
 | `08-deep-learning` | Neural networks and PyTorch |
 | `09-llms-and-rag` | Transformers, embeddings, RAG, agents, evaluation |
 | `10-backend-and-apis` | FastAPI, REST, authentication, testing |
 | `11-devops-and-deployment` | Docker, CI/CD, cloud, observability |
 | `12-projects` | Integrated, portfolio-ready projects |
-| `resources` | References and reusable templates |
+| `resources` | References and reusable resources |
+| `templates` | Daily study and project templates |
 
 ## How to use this repository
 
